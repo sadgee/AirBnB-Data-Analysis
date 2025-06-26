@@ -1,16 +1,16 @@
 
-# 🗽 Airbnb Listings EDA Project: New York 2024
+#  Airbnb Listings EDA Project: New York 2024
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves **Exploratory Data Analysis (EDA)** on Airbnb listings in New York City to uncover trends in pricing, availability, and host behavior. Tools used include **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data cleaning, analysis, and visualization.
 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Explore **room types, pricing, and availability** across neighborhoods
 * Analyze **host behavior** and listing frequency
@@ -19,7 +19,7 @@ This project involves **Exploratory Data Analysis (EDA)** on Airbnb listings in 
 
 ---
 
-## 📂 Dataset Details
+##  Dataset Details
 
 The dataset contains **20,765 records** with **22 features**, such as:
 
@@ -35,15 +35,15 @@ The dataset contains **20,765 records** with **22 features**, such as:
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
-### 1️⃣ Data Cleaning
+### 1. Data Cleaning
 
 * Handled nulls in `price`, `neighborhood`, and `beds`
 * Converted `last_review` to **datetime**
 * Capped extreme prices (>\$1,000) for better visualization
 
-### 2️⃣ Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 
 * **Room Type Distribution**:
 
@@ -64,7 +64,7 @@ The dataset contains **20,765 records** with **22 features**, such as:
 
   * Pair plots show link between reviews, availability, and price
 
-### 3️⃣ Data Visualization Tools
+### 3. Data Visualization Tools
 
 * **Histograms**: Price distribution
 * **Boxplots**: Outlier detection
@@ -74,7 +74,7 @@ The dataset contains **20,765 records** with **22 features**, such as:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 1. **Price Trends**
 
@@ -99,7 +99,7 @@ The dataset contains **20,765 records** with **22 features**, such as:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 **For Guests:**
 
@@ -113,7 +113,7 @@ The dataset contains **20,765 records** with **22 features**, such as:
 
 ---
 
-## 🔮 Future Scope
+##  Future Scope
 
 * Apply **machine learning** for price prediction
 * Use **sentiment analysis** on guest reviews
@@ -121,19 +121,19 @@ The dataset contains **20,765 records** with **22 features**, such as:
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project uncovers meaningful patterns in the NYC Airbnb market. By leveraging EDA techniques, it offers useful takeaways for both guests and hosts. Future enhancements could include ML and advanced visual analytics to build on these findings.
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Free to use and adapt!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 * **GitHub**: [sadgee](https://github.com/sadgee)
 * **LinkedIn**: [Sadgee Pandey](https://linkedin.com/in/sadgee-pandey-7aa36988)
